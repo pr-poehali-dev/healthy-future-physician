@@ -50,7 +50,7 @@ const About = () => {
             <div className="relative">
               <div className="absolute -inset-4 bg-gradient-to-r from-purple-600 to-pink-600 rounded-2xl blur-2xl opacity-30 animate-pulse-slow"></div>
               <img 
-                src="https://cdn.poehali.dev/projects/4985f7d6-99d3-41c2-a339-8560241c4c0b/files/2cc3de4d-1e7f-4fff-b33d-d2ac06b7a519.jpg"
+                src="https://cdn.poehali.dev/projects/4985f7d6-99d3-41c2-a339-8560241c4c0b/files/1729b837-1fe1-476e-9766-a95131b2a3ca.jpg"
                 alt="Доктор"
                 className="relative rounded-2xl shadow-2xl w-full object-cover aspect-square"
               />
