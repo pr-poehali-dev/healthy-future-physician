@@ -25,7 +25,7 @@ const About = () => {
           <div className="order-2 md:order-1">
             <div className="space-y-6">
               <h3 className="text-3xl font-semibold text-white">
-                Доктор космической медицины
+                Врач общей практики
               </h3>
               <p className="text-gray-300 leading-relaxed">
                 Специализируюсь на комплексном подходе к здоровью, используя передовые методики диагностики и лечения. Моя миссия — помочь каждому пациенту достичь оптимального состояния здоровья и долголетия.
