@@ -4,8 +4,6 @@ import Icon from "@/components/ui/icon";
 const About = () => {
   const achievements = [
     { icon: "Award", title: "15+ лет опыта", desc: "В медицинской практике" },
-    { icon: "Users", title: "5000+ пациентов", desc: "Доверили свое здоровье" },
-    { icon: "GraduationCap", title: "Международные сертификаты", desc: "Постоянное обучение" },
     { icon: "Heart", title: "Индивидуальный подход", desc: "К каждому пациенту" }
   ];
 
