@@ -30,14 +30,6 @@ const Hero = () => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-fade-in" style={{ animationDelay: '0.4s' }}>
             <Button 
               size="lg" 
-              onClick={() => scrollToSection('consultation')}
-              className="cosmic-gradient text-white border-0 hover:scale-105 transition-transform shadow-lg shadow-purple-500/50"
-            >
-              <Icon name="Video" size={20} className="mr-2" />
-              Онлайн консультация
-            </Button>
-            <Button 
-              size="lg" 
               variant="outline"
               onClick={() => scrollToSection('about')}
               className="glass-effect border-purple-500/50 hover:bg-purple-500/20"
