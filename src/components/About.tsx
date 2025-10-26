@@ -3,7 +3,7 @@ import Icon from "@/components/ui/icon";
 
 const About = () => {
   const achievements = [
-    { icon: "Award", title: "15+ лет опыта", desc: "В медицинской практике" },
+    { icon: "Award", title: "25+ лет опыта", desc: "В медицинской практике" },
     { icon: "Heart", title: "Индивидуальный подход", desc: "К каждому пациенту" }
   ];
 
