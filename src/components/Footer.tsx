@@ -18,7 +18,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-purple-500/20 pt-8 text-center text-gray-500">
-          <p>&copy; {currentYear} Космическая Медицина. Все права защищены.</p>
+          <p>&copy; {currentYear}</p>
         </div>
       </div>
     </footer>
